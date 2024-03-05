@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Texturas/Ch02_1001_Diffuse.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Texturas/Ch02_1001_Glossiness.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Texturas/Ch02_1001_Normal.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Texturas/Ch02_1001_Specular.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Texturas/Ch02_1002_Diffuse.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Texturas/Ch02_1002_Normal.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Materiales/Ch02_body.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Materiales/Ch02_hair.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/BP_Sophie.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/MESH/characterSophie_Skeleton.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/MESH/characterSophie.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/MESH/characterSophie_Anim_mixamo_com.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/MESH/characterSophie_PhysicsAsset.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/BP_Anim_Sophie.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/Drunk_Walk.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/Dwarf_Idle__1_.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/Dwarf_Idle__2_.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/Hip_Hop_Dancing.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/Mma_Kick.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/BS_Sophie.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/Animations/Fast_Run.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/ThirdPerson/Input/Actions/IA_Correr.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/characterSophie.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/characterSophie_Anim_mixamo_com.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/characterSophie_PhysicsAsset.uasset",
+				"C:/hlocal/EIRV/UNREAL/CharacterAnimations/Content/_MIO/Characters/characterSophie_Skeleton.uasset"
+			]
+		}
+	]
+}
